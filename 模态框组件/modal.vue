@@ -10,9 +10,9 @@
        <p>11111111111</p>
        <p>22222222222</p>
        <div class="buttonBox">
-          <input type="text" name="" value="" placeholder='Enter your work email'>
+          <input type="text" name="" value="" placeholder='Enter your email'>
           <div class="sendButton">
-             <button type="button" name="button">Create Free Account</button>
+             <button type="button" name="button">Create Account</button>
           </div>
        </div>
     </div>
